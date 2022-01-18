@@ -1,0 +1,2 @@
+# SpiderGAN
+Spider DCGAN 
