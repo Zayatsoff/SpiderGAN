@@ -31,12 +31,12 @@ transformation = transforms.Compose(
     ]
 )
 # dataset = SpiderDataset(
-#     csv_file="datasets\YIKES_Spiders\spiders.csv",
-#     root_dir="datasets\YIKES_Spiders\\",
+#     csv_file="datasets\\YIKES_Spiders\\spiders.csv",
+#     root_dir="datasets\\YIKES_Spiders\\",
 #     transform=transformation,
 # )
 
-dataset = datasets.ImageFolder(root='C:\\Users\\timur\\miniconda3\\envs\\basicpytorch\\indexTorch\\datasets\\YIKES_Spiders\\train', transform=transformation)
+dataset = datasets.ImageFolder(root='datasets\\YIKES_Spiders\\train', transform=transformation)
 dataloader = DataLoader(dataset, batch_size=BATCH_SIZE, shuffle=True)
 
 # Initializing Gen and Disc
