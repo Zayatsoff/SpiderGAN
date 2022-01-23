@@ -10,3 +10,4 @@ Modified version of [Aladdin Persson's torch implementation](https://github.com/
 ---
 TODO:
 - [x] Add saves
+- [ ] Turn into webapp
