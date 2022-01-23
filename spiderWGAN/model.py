@@ -1,4 +1,4 @@
-# Celeb generator using WGAN
+# Spider generator using WGAN
 # https://arxiv.org/pdf/1701.07875
 
 import torch
