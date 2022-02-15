@@ -4,7 +4,7 @@ Modified version of [Aladdin Persson's torch implementation](https://youtu.be/IZ
 ![Gif](https://github.com/Zayatsoff/SpiderGAN/blob/main/spiderDCGAN/DCGANgif.gif)
 ---
 # SpiderWGAN
-Modified version of [Aladdin Persson's torch implementation]https://youtu.be/pG0QZ7OddX4) of [WGAN](https://arxiv.org/pdf/1701.07875.pdf) with a focus on generating spiders.
+Modified version of [Aladdin Persson's torch implementation](https://youtu.be/pG0QZ7OddX4) of [WGAN](https://arxiv.org/pdf/1701.07875.pdf) with a focus on generating spiders.
 
 ![Image](https://github.com/Zayatsoff/SpiderGAN/blob/main/spiderWGAN/epochs_img/2100.png)
 ---
